@@ -1,0 +1,2 @@
+This is an excercise on Java generics.  I will convert a List ADT into 
+a generic class that can be used for any type.
